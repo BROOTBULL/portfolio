@@ -1,0 +1,36 @@
+body {
+    background-color: #25231f;
+
+}
+h1{
+   color: #EACD7E ;
+   font-family:verdana;
+}
+h4{
+    color: #CAB171 ;
+ }
+ h2{
+    color: #CAB171 ;
+    font-family:verdana;
+ }
+ p{
+    color:#FF884B;
+    max-width: 65%;
+ }
+ tr{
+    color:#FF884B;
+ }
+ li{
+    color: beige;
+ }
+ ol{
+    color:  #D36B00;
+ }
+ hr{
+    border-style:none ;
+    border-color: bisque;
+    border-top-style: dotted;
+    border-width:4px ;
+    background-color: #1B1A17;
+    width: 5%;
+ }
